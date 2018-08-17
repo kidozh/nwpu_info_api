@@ -366,7 +366,7 @@
         {
             "name":{
                 "zh":"公字楼",
-                "en":""
+                "en":"Gongzi Building"
             },
             "description":"材料学院",
             "location":"108.770571,34.038084",
@@ -375,7 +375,7 @@
         {
             "name":{
                 "zh":"研究生西馆",
-                "en":""
+                "en":"Graduate West Hall"
             },
             "location":"108.919051,34.247904",
             "campus":"Youyi"
@@ -383,7 +383,7 @@
         {
             "name":{
                 "zh":"勇字楼",
-                "en":""
+                "en":"Yongzi Building"
             },
             "location":"108.920264,34.247963",
             "campus":"Youyi"
@@ -391,7 +391,7 @@
         {
             "name":{
                 "zh":"研究生东馆",
-                "en":""
+                "en":"Graduate East Hall"
             },
             "location":"108.920875,34.247941",
             "campus":"Youyi"
@@ -399,7 +399,7 @@
         {
             "name":{
                 "zh":"学校办公室A座",
-                "en":""
+                "en":"School Office Block A"
             },
             "location":"108.920165,34.247337",
             "campus":"Youyi"
@@ -407,7 +407,7 @@
         {
             "name":{
                 "zh":"学校办公室B座",
-                "en":""
+                "en":"School Office Block B"
             },
             "location":"108.921207,34.247314",
             "campus":"Youyi"
@@ -415,7 +415,7 @@
         {
             "name":{
                 "zh":"毅字楼",
-                "en":""
+                "en":"Yizi Building"
             },
             "location":"108.92224,34.247963",
             "campus":"Youyi"
@@ -423,7 +423,7 @@
         {
             "name":{
                 "zh":"新图书馆",
-                "en":""
+                "en":"New Library"
             },
             "location":"108.92224,34.247963",
             "campus":"Youyi"
@@ -431,7 +431,7 @@
         {
             "name":{
                 "zh":"老图书馆",
-                "en":""
+                "en":"Old Library"
             },
             "location":"108.921055,34.248717",
             "campus":"Youyi"
@@ -439,7 +439,7 @@
         {
             "name":{
                 "zh":"2M楼",
-                "en":""
+                "en":"2M Building"
             },
             "location":"108.919222,34.248515",
             "campus":"Youyi"
@@ -447,7 +447,7 @@
         {
             "name":{
                 "zh":"诚字楼",
-                "en":""
+                "en":"Chengzi Building"
             },
             "description":"橙子楼！/分析中心/自习中心",
             "location":"108.919222,34.248515",
@@ -456,7 +456,7 @@
         {
             "name":{
                 "zh":"学舟楼",
-                "en":""
+                "en":"XueZhou Building"
             },
             "location":"108.919519,34.249933",
             "campus":"Youyi"
@@ -464,7 +464,7 @@
         {
             "name":{
                 "zh":"创新大厦",
-                "en":""
+                "en":"Inovation Building"
             },
             "location":"108.917291,34.250015",
             "campus":"Youyi"
@@ -472,7 +472,7 @@
         {
             "name":{
                 "zh":"翼型实验室",
-                "en":""
+                "en":"Airfoil Laboratory"
             },
             "location":"108.917291,34.250015",
             "campus":"Youyi"
@@ -480,7 +480,7 @@
         {
             "name":{
                 "zh":"校医院",
-                "en":""
+                "en":"University Clinic"
             },
             "location":"108.918701,34.25232",
             "campus":"Youyi"
@@ -488,7 +488,7 @@
         {
             "name":{
                 "zh":"旺园",
-                "en":""
+                "en":"Wang Community"
             },
             "location":"108.915562,34.250011",
             "campus":"Youyi"
@@ -496,7 +496,7 @@
         {
             "name":{
                 "zh":"健翔楼",
-                "en":""
+                "en":"JianXiang Building"
             },
             "location":"108.922236,34.252089",
             "campus":"Youyi"
@@ -504,7 +504,7 @@
         {
             "name":{
                 "zh":"老校区体育场",
-                "en":""
+                "en":"Old Campus Stadium"
             },
             "description":"溜达溜达",
             "location":"108.922236,34.252089",
@@ -513,7 +513,7 @@
         {
             "name":{
                 "zh":"综合训练馆",
-                "en":""
+                "en":"Comprehensive training hall"
             },
             "description":"游泳馆（周一不开放）/羽毛球馆/网球馆",
             "location":"108.924365,34.251671",
@@ -522,7 +522,7 @@
         {
             "name":{
                 "zh":"老校区食堂",
-                "en":""
+                "en":"Canteens in Youyi C."
             },
             "description":"北一/北二/南一/南二/公诚快餐/清真食堂",
             "location":"108.924441,34.248605",
@@ -531,7 +531,7 @@
         {
             "name":{
                 "zh":"爱生楼",
-                "en":""
+                "en":"AiSheng Building"
             },
             "location":"108.924441,34.248605",
             "campus":"Youyi"
@@ -539,7 +539,7 @@
         {
             "name":{
                 "zh":"大学生澡堂",
-                "en":""
+                "en":"Student Bathhouse"
             },
             "location":"108.925367,34.249541",
             "campus":"Youyi"
@@ -547,7 +547,7 @@
         {
             "name":{
                 "zh":"航空楼",
-                "en":""
+                "en":"Aviation Building"
             },
             "location":"108.922335,34.249899",
             "campus":"Youyi"
@@ -555,7 +555,7 @@
         {
             "name":{
                 "zh":"书海楼",
-                "en":""
+                "en":"Shuhai Building"
             },
             "location":"108.922335,34.249899",
             "campus":"Youyi"
@@ -563,7 +563,7 @@
         {
             "name":{
                 "zh":"老图书馆",
-                "en":""
+                "en":"Old Library"
             },
             "location":"108.920996,34.248739",
             "campus":"Youyi"
@@ -571,7 +571,7 @@
         {
             "name":{
                 "zh":"国际会议室",
-                "en":""
+                "en":"International Conference Room"
             },
             "location":"108.92216,34.248773",
             "campus":"Youyi"
@@ -579,15 +579,15 @@
         {
             "name":{
                 "zh":"阶五教室",
-                "en":""
+                "en":"5th Jie Classroom"
             },
             "location":"108.921724,34.247982",
             "campus":"Youyi"
         },
         {
             "name":{
-                "zh":"综合训练馆",
-                "en":""
+                "zh":"翱翔训练馆",
+                "en":"Comprehensive training hall"
             },
             "description":"招聘/求职/体检",
             "location":"108.924913,34.250903",
@@ -605,7 +605,7 @@
         {
             "name":{
                 "zh":"教工食堂",
-                "en":""
+                "en":"Canteen for teachers"
             },
             "description":"味道海星",
             "location":"108.922281,34.251954",
@@ -614,7 +614,7 @@
         {
             "name":{
                 "zh":"东方红广场",
-                "en":""
+                "en":"DongFangHong Square"
             },
             "description":"快递/附中篮球场/排球场",
             "location":"108.925003,34.248747",
@@ -623,7 +623,7 @@
         {
             "name":{
                 "zh":"西工大西苑",
-                "en":""
+                "en":"NPU West"
             },
             "description":"羽毛球馆/篮球场/清净",
             "location":"108.912642,34.248754",
@@ -632,7 +632,7 @@
         {
             "name":{
                 "zh":"碑林分局太白路派出所",
-                "en":""
+                "en":"Beilin Branch, Taibai Road Police Station"
             },
             "description":"身份证办理/详细户籍问题/身份证挂失",
             "location":"108.933032,34.251625",
