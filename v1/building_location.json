@@ -251,9 +251,10 @@
         },
         {
             "name":{
-                "zh":"教学东楼A座/外国语学院",
+                "zh":"教学东楼A座",
                 "en":""
             },
+            "description":"外国语学院",
             "img_url":"http://zsb.nwpu.edu.cn/Uploads/Editor/2015-11-16/564984304ca90.jpg",
             "location":"108.77314,34.038454",
             "campus":"Changan"
