@@ -103,11 +103,11 @@
         },
         {
             "name":{
-                "zh":"星天苑网球场",
+                "zh":"星天苑篮球场",
                 "en":""
             },
-            "img_url":"http://jsj.nwpu.edu.cn/_mediafile/jisuanji2011/2015/06/08/2wv307szrk.jpg",
-            "location":"108.76854,34.037998",
+            "img_url":"http://news.nwpu.edu.cn/_mediafile/view/2016/10/15/29m5qvx699.jpg",
+            "location":"108.767597,34.039486",
             "campus":"Changan"
         },
         {
@@ -130,7 +130,7 @@
         },
         {
             "name":{
-                "zh":"星南餐厅/大学生超市",
+                "zh":"星南餐厅",
                 "en":""
             },
             "img_url":"http://zsb.nwpu.edu.cn/Uploads/Editor/2015-11-16/5649883690880.jpg",
@@ -188,6 +188,7 @@
                 "zh":"东元超市 & 宝莱惠超市",
                 "en":""
             },
+            "img_url":"http://news.nwpu.edu.cn/_mediafile/view/2016/10/18/3hrkq6mbc4.jpg",
             "description":"大部分学校快递收发地",
             "location":"108.767938,34.042754",
             "campus":"Changan"
@@ -225,6 +226,7 @@
                 "zh":"云天苑篮球场",
                 "en":""
             },
+            "img_url":"http://som.nwpu.edu.cn/__local/8/03/94/E6DB11FE29E443618B7416541C2_8691CE9E_12BF51.jpg",
             "location":"108.776284,34.04232",
             "campus":"Changan"
         },
@@ -243,6 +245,7 @@
                 "zh":"教学东楼B座",
                 "en":""
             },
+            "img_url":"http://zsb.nwpu.edu.cn/Uploads/Editor/2015-11-16/564984304ca90.jpg",
             "location":"108.77278,34.039292",
             "campus":"Changan"
         },
@@ -251,6 +254,7 @@
                 "zh":"教学东楼A座/外国语学院",
                 "en":""
             },
+            "img_url":"http://zsb.nwpu.edu.cn/Uploads/Editor/2015-11-16/564984304ca90.jpg",
             "location":"108.77314,34.038454",
             "campus":"Changan"
         },
@@ -259,6 +263,7 @@
                 "zh":"教学东楼C座",
                 "en":""
             },
+            "img_url":"http://zsb.nwpu.edu.cn/Uploads/Editor/2015-11-16/564984304ca90.jpg",
             "location":"108.77314,34.038454",
             "campus":"Changan"
         },
@@ -401,7 +406,7 @@
                 "zh":"研究生西馆",
                 "en":"Graduate West Hall"
             },
-            "img_url":"http://news.nwpu.edu.cn/images/12/02/28/4uat64bphn/20110323194952314960.jpg",
+            "img_url":"http://xygg.nwpu.edu.cn/_mediafile/nwpu/2012/05/04/5fglwprjz0.jpg",
             "location":"108.919051,34.247904",
             "campus":"Youyi"
         },
@@ -459,6 +464,7 @@
                 "zh":"老图书馆",
                 "en":"Old Library"
             },
+            "img_url":"http://xygg.nwpu.edu.cn/_mediafile/nwpu/2012/05/04/8a4docsjyz.jpg",
             "location":"108.921055,34.248717",
             "campus":"Youyi"
         },
@@ -490,9 +496,10 @@
         },
         {
             "name":{
-                "zh":"创新大厦",
+                "zh":"创新科技大楼",
                 "en":"Inovation Building"
             },
+            "img_url":"http://news.nwpu.edu.cn/__local/E/0B/9D/C5041F2DA8DCC4EAE7A3D02E6B7_4B3036F5_149CA.jpg",
             "location":"108.917291,34.250015",
             "campus":"Youyi"
         },
@@ -576,6 +583,7 @@
                 "zh":"航空楼",
                 "en":"Aviation Building"
             },
+            "img_url":"http://yzb.nwpu.edu.cn/images/untitled20.bmp",
             "location":"108.922335,34.249899",
             "campus":"Youyi"
         },
@@ -616,6 +624,7 @@
                 "zh":"翱翔训练馆",
                 "en":"Comprehensive training hall"
             },
+            "img_url":"http://tiyu.nwpu.edu.cn/_mediafile/tiyubu/2016/05/16/2fs9653rlg.jpg",
             "description":"招聘/求职/体检",
             "location":"108.924913,34.250903",
             "campus":"Youyi"
@@ -652,6 +661,7 @@
                 "zh":"西工大西苑",
                 "en":"NPU West"
             },
+            "img_url":"http://gonghui.nwpu.edu.cn/__local/0/FB/9F/68C4175A122EF362F4233CCA836_1EFC6A28_168F2.jpg",
             "description":"羽毛球馆/篮球场/清净",
             "location":"108.912642,34.248754",
             "campus":"Youyi"
