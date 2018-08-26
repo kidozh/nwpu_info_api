@@ -14,8 +14,7 @@
         "2018": {
             "festival": {
                 "dragon_boat_festival": [
-                    "20180618",
-                    "20180826"
+                    "20180618"
                 ],
                 "mid_fall_festival": [
                     "20180924"
@@ -34,6 +33,9 @@
                 "national_day": [
                     "20180929",
                     "20180930"
+                ],
+                "dragon_boat_festival": [
+                    "20180826"
                 ]
             }
         }
