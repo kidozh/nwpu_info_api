@@ -11,6 +11,17 @@ with open("calendar.json","w") as file:
                     "start":"20180226",
                     "end":"20180715"
                 }
+            },
+            "2018-2019":{
+                "fall":{
+                    "start": "20180903",
+                    "end":"20190120"
+                },
+                "spring":{
+                    "start":"20190225",
+                    "end":"20190714"
+                }
+
             }
         }]
     }
@@ -28,4 +39,5 @@ with open("calendar.json","w") as file:
             }
         }
     }
+    json.dump(jsonDict,file)
     print(json.dumps(jsonDict))
