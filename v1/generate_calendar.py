@@ -1,3 +1,4 @@
+# it's generating calendar python script
 import json
 
 with open("calendar.json","w") as file:
