@@ -1,0 +1,7 @@
+{
+    "result":"ok",
+    "latest_version":"2.5.0",
+    "latest_version_description_en":"Update bbs module\nFix some bugs",
+    "latest_version_description_zh_CN":"新增了论坛模块\n修复了一些可知的漏洞",
+    "latest_version_download_url":"https://github.com/kidozh/NpuHelper/releases/download/v2.3.1/app-release.apk"
+}
